@@ -1,0 +1,18 @@
+h1,
+h3 {
+  color: whitesmoke;
+}
+
+.divSucess {
+  background-color: #0000005e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 60vw;
+  height: 25vh;
+}
+
+.divContainer {
+  background-image: url("https://1.bp.blogspot.com/-vmumZoALtkg/YUFnFPXFspI/AAAAAAABGjM/sZdA_IBhI0ULXfnyB9HPaB08xBiFf_-0QCLcBGAsYHQ/w1600/Papel%2Bde%2BParede%2BPC%2BTumblr.jpg");
+}
